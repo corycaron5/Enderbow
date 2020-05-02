@@ -1,0 +1,9 @@
+name: EnderBow
+main: me.cory.enderbow.EnderbowPlugin
+version: 2.0.0
+api-version: 1.15
+author: Cory Caron
+description: A simple plugin to shoot ender pearls from a bow!
+commands:
+ enderbow:
+  description: Base ender bow command
